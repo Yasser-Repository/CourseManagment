@@ -1,0 +1,14 @@
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\bin\Debug\net6.0\CoursesManagment.DAL.deps.json
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\bin\Debug\net6.0\CoursesManagment.DAL.runtimeconfig.json
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\bin\Debug\net6.0\CoursesManagment.DAL.dll
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\bin\Debug\net6.0\CoursesManagment.DAL.pdb
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\obj\Debug\net6.0\CoursesManagment.DAL.csproj.AssemblyReference.cache
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\obj\Debug\net6.0\CoursesManagment.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\obj\Debug\net6.0\CoursesManagment.DAL.AssemblyInfoInputs.cache
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\obj\Debug\net6.0\CoursesManagment.DAL.AssemblyInfo.cs
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\obj\Debug\net6.0\CoursesManagment.DAL.csproj.CoreCompileInputs.cache
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\obj\Debug\net6.0\CoursesManagment.DAL.dll
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\obj\Debug\net6.0\refint\CoursesManagment.DAL.dll
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\obj\Debug\net6.0\CoursesManagment.DAL.pdb
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\obj\Debug\net6.0\CoursesManagment.DAL.genruntimeconfig.cache
+C:\Users\AL Motahida\source\repos\CoursesManagment.DAL\obj\Debug\net6.0\ref\CoursesManagment.DAL.dll
