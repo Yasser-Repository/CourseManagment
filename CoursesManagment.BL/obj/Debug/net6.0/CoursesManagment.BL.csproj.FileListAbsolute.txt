@@ -1,0 +1,15 @@
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\bin\Debug\net6.0\CoursesManagment.BL.deps.json
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\bin\Debug\net6.0\CoursesManagment.BL.dll
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\bin\Debug\net6.0\CoursesManagment.BL.pdb
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\bin\Debug\net6.0\CoursesManagment.DAL.dll
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\bin\Debug\net6.0\CoursesManagment.DAL.pdb
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\obj\Debug\net6.0\CoursesManagment.BL.csproj.AssemblyReference.cache
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\obj\Debug\net6.0\CoursesManagment.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\obj\Debug\net6.0\CoursesManagment.BL.AssemblyInfoInputs.cache
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\obj\Debug\net6.0\CoursesManagment.BL.AssemblyInfo.cs
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\obj\Debug\net6.0\CoursesManagment.BL.csproj.CoreCompileInputs.cache
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\obj\Debug\net6.0\CoursesManagment.BL.csproj.CopyComplete
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\obj\Debug\net6.0\CoursesManagment.BL.dll
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\obj\Debug\net6.0\refint\CoursesManagment.BL.dll
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\obj\Debug\net6.0\CoursesManagment.BL.pdb
+C:\Users\AL Motahida\source\repos\CoursesManagment.BL\obj\Debug\net6.0\ref\CoursesManagment.BL.dll
